@@ -1,2 +1,2 @@
-# cc-ker
+# ccker
 cocalc jupyter kernel
